@@ -49,7 +49,7 @@ Una herramienta de línea de comandos diseñada para extraer bases de datos (`.d
 1.  **Clona este repositorio** en tu dispositivo Android o descarga el archivo `db_apk.py` directamente:
 
     ```bash
-    git clone https://github.com/tu-usuario/DBExtractor.git
+    https://github.com/Demon6102/DB_APK_AND
     cd DBExtractor
     ```
 
